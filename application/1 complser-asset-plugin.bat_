@@ -1,0 +1,2 @@
+..\web-server\php-5.4.45-nts-Win32-VC9-x86\php.exe composer.phar global require "fxp/composer-asset-plugin:~1.1.1"
+pause

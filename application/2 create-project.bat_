@@ -1,0 +1,2 @@
+..\web-server\php-5.4.45-nts-Win32-VC9-x86\php.exe composer.phar create-project yiisoft/yii2-app-basic basic 2.0.6
+pause
